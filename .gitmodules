@@ -1,0 +1,3 @@
+[submodule "NayaFolder"]
+	path = NayaFolder
+	url = https://github.com/VKT2003/AI-Face-Swap.git
